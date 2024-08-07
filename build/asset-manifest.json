@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anaelocontrole/static/css/main.d8af9f0d.chunk.css",
+    "main.js": "/anaelocontrole/static/js/main.0adfc49d.chunk.js",
+    "main.js.map": "/anaelocontrole/static/js/main.0adfc49d.chunk.js.map",
+    "runtime~main.js": "/anaelocontrole/static/js/runtime~main.3fa1bcd9.js",
+    "runtime~main.js.map": "/anaelocontrole/static/js/runtime~main.3fa1bcd9.js.map",
+    "static/js/2.6a092606.chunk.js": "/anaelocontrole/static/js/2.6a092606.chunk.js",
+    "static/js/2.6a092606.chunk.js.map": "/anaelocontrole/static/js/2.6a092606.chunk.js.map",
+    "index.html": "/anaelocontrole/index.html",
+    "precache-manifest.cbd5ca66767cfe920a440c0cf0757e98.js": "/anaelocontrole/precache-manifest.cbd5ca66767cfe920a440c0cf0757e98.js",
+    "service-worker.js": "/anaelocontrole/service-worker.js",
+    "static/css/main.d8af9f0d.chunk.css.map": "/anaelocontrole/static/css/main.d8af9f0d.chunk.css.map",
+    "static/media/logo.png": "/anaelocontrole/static/media/logo.3e608551.png"
+  }
+}
