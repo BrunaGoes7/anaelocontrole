@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/anaelocontrole/static/css/main.d8af9f0d.chunk.css",
-    "main.js": "/anaelocontrole/static/js/main.0adfc49d.chunk.js",
-    "main.js.map": "/anaelocontrole/static/js/main.0adfc49d.chunk.js.map",
-    "runtime~main.js": "/anaelocontrole/static/js/runtime~main.3fa1bcd9.js",
-    "runtime~main.js.map": "/anaelocontrole/static/js/runtime~main.3fa1bcd9.js.map",
-    "static/js/2.6a092606.chunk.js": "/anaelocontrole/static/js/2.6a092606.chunk.js",
-    "static/js/2.6a092606.chunk.js.map": "/anaelocontrole/static/js/2.6a092606.chunk.js.map",
-    "index.html": "/anaelocontrole/index.html",
-    "precache-manifest.cbd5ca66767cfe920a440c0cf0757e98.js": "/anaelocontrole/precache-manifest.cbd5ca66767cfe920a440c0cf0757e98.js",
-    "service-worker.js": "/anaelocontrole/service-worker.js",
-    "static/css/main.d8af9f0d.chunk.css.map": "/anaelocontrole/static/css/main.d8af9f0d.chunk.css.map",
-    "static/media/logo.png": "/anaelocontrole/static/media/logo.3e608551.png"
-  }
+    "main.css": "/static/css/main.17c27b15.chunk.css",
+    "main.js": "/static/js/main.6d1ae432.chunk.js",
+    "main.js.map": "/static/js/main.6d1ae432.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8097b0e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8097b0e.js.map",
+    "static/js/2.df7be85b.chunk.js": "/static/js/2.df7be85b.chunk.js",
+    "static/js/2.df7be85b.chunk.js.map": "/static/js/2.df7be85b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.17c27b15.chunk.css.map": "/static/css/main.17c27b15.chunk.css.map",
+    "static/js/2.df7be85b.chunk.js.LICENSE.txt": "/static/js/2.df7be85b.chunk.js.LICENSE.txt",
+    "static/media/logo.cc8a8894.png": "/static/media/logo.cc8a8894.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8097b0e.js",
+    "static/js/2.df7be85b.chunk.js",
+    "static/css/main.17c27b15.chunk.css",
+    "static/js/main.6d1ae432.chunk.js"
+  ]
 }
